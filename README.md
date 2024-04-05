@@ -63,7 +63,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 
 For questions, suggestions, or other inquiries, feel free to reach out to [Murat Tut](mailto:Tutmurattut@gmail.com).
-
----
-
-Feel free to customize this README file with additional information or features specific to your implementation!
